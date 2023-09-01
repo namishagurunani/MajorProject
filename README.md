@@ -12,4 +12,4 @@
 ![image](https://github.com/namishagurunani/MajorProject/assets/126158413/3a67fe80-f0b6-468c-be52-2977ea811c7c)
 ![image](https://github.com/namishagurunani/MajorProject/assets/126158413/d759a352-4033-4b7a-87f9-b1744db18887)
 Github-Link[click here](https://github.com/namishagurunani/MajorProject/tree/main)
-Hosted-Link[click here]()
+Hosted-Link[click here](https://namishagurunani.github.io/MajorProject/)
