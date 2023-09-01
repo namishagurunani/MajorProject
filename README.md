@@ -1,1 +1,15 @@
-# MajorProject
+# MajorProject UI->>
+![image](https://github.com/namishagurunani/MajorProject/assets/126158413/cbb2e943-7b0a-40ab-bf00-2ce275dbf8e8)
+![image](https://github.com/namishagurunani/MajorProject/assets/126158413/5a1918e5-1e17-451a-a17b-cf0ce9b20b7b)
+![image](https://github.com/namishagurunani/MajorProject/assets/126158413/5d5b4041-9eca-4fab-ace1-c5d7dacb25f8)
+![image](https://github.com/namishagurunani/MajorProject/assets/126158413/f8865eaa-1535-44f9-9100-36546cdad0f4)
+![image](https://github.com/namishagurunani/MajorProject/assets/126158413/a91b0bf1-e32b-4442-bcae-71fe60447f76)
+![image](https://github.com/namishagurunani/MajorProject/assets/126158413/7c146a96-6e82-4de2-97af-ce69f3ea9311)
+![image](https://github.com/namishagurunani/MajorProject/assets/126158413/bd1f93c3-6574-40a7-87af-5e9c9143aa76)
+![image](https://github.com/namishagurunani/MajorProject/assets/126158413/ecf166fd-c4c6-45dd-acf4-da27640eff0c)
+![image](https://github.com/namishagurunani/MajorProject/assets/126158413/0f3036d4-146e-415d-99b4-82e8da9471c8)
+![image](https://github.com/namishagurunani/MajorProject/assets/126158413/9bfcb52b-c822-4976-828c-8a08428f62e4)
+![image](https://github.com/namishagurunani/MajorProject/assets/126158413/3a67fe80-f0b6-468c-be52-2977ea811c7c)
+![image](https://github.com/namishagurunani/MajorProject/assets/126158413/d759a352-4033-4b7a-87f9-b1744db18887)
+Github-Link[click here]()
+Hosted-Link[click here]()
